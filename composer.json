@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Sinabs_Directcheckout",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Directcheckout Release 0.1.0",
+    "authors": [
+    {
+        "name": "Sinabs",
+        "email": "tech@sinabs.fr"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
