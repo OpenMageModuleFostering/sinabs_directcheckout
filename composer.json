@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Sinabs_Directcheckout",
+    "name": "openmage-module-fostering\/sinabs_directcheckout",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Directcheckout Release 0.1.0",
     "authors": [
